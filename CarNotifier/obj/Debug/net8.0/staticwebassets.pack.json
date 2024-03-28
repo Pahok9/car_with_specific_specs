@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CarNotifier.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CarNotifier.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarNotifier.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CarNotifier.props",
+      "PackagePath": "build\\CarNotifier.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CarNotifier.props",
+      "PackagePath": "buildMultiTargeting\\CarNotifier.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CarNotifier.props",
+      "PackagePath": "buildTransitive\\CarNotifier.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

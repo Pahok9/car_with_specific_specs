@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81C560ED-A226-4214-8642-F89FDEB1D862}|CarNotifier\\CarNotifier.csproj|c:\\users\\hocha\\onedrive\\desktop\\side projects\\carnotifier\\carnotifier\\carnotifier\\components\\pages\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C560ED-A226-4214-8642-F89FDEB1D862}|CarNotifier\\CarNotifier.csproj|solutionrelative:carnotifier\\components\\pages\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C560ED-A226-4214-8642-F89FDEB1D862}|CarNotifier\\CarNotifier.csproj|c:\\users\\hocha\\onedrive\\desktop\\side projects\\carnotifier\\carnotifier\\carnotifier\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C560ED-A226-4214-8642-F89FDEB1D862}|CarNotifier\\CarNotifier.csproj|solutionrelative:carnotifier\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C560ED-A226-4214-8642-F89FDEB1D862}|CarNotifier\\CarNotifier.csproj|c:\\users\\hocha\\onedrive\\desktop\\side projects\\carnotifier\\carnotifier\\carnotifier\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{81C560ED-A226-4214-8642-F89FDEB1D862}|CarNotifier\\CarNotifier.csproj|solutionrelative:carnotifier\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C560ED-A226-4214-8642-F89FDEB1D862}|CarNotifier\\CarNotifier.csproj|c:\\users\\hocha\\onedrive\\desktop\\side projects\\carnotifier\\carnotifier\\carnotifier\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{81C560ED-A226-4214-8642-F89FDEB1D862}|CarNotifier\\CarNotifier.csproj|solutionrelative:carnotifier\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "CarNotifier\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "CarNotifier\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-22T00:40:52.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "CarNotifier\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\app.css",
+              "RelativeToolTip": "CarNotifier\\wwwroot\\app.css",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-21T22:56:15.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.razor",
+              "DocumentMoniker": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\Components\\Pages\\Settings.razor",
+              "RelativeDocumentMoniker": "CarNotifier\\Components\\Pages\\Settings.razor",
+              "ToolTip": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\Components\\Pages\\Settings.razor",
+              "RelativeToolTip": "CarNotifier\\Components\\Pages\\Settings.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:46:32.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CarNotifier\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CarNotifier\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:10:58.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
