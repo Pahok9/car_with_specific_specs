@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarNotifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ad71a758124f6baaf3fd9517546817bf812263f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarNotifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarNotifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

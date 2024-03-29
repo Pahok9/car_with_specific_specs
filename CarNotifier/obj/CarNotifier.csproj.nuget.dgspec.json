@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\CarNotifier.csproj": {}
+    "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\CarNotifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\CarNotifier.csproj": {
+    "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\CarNotifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\CarNotifier.csproj",
+        "projectUniqueName": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\CarNotifier.csproj",
         "projectName": "CarNotifier",
-        "projectPath": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\CarNotifier.csproj",
-        "packagesPath": "C:\\Users\\HoCha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\obj\\",
+        "projectPath": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\CarNotifier.csproj",
+        "packagesPath": "C:\\Users\\WHODATDUHDODAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HoCha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WHODATDUHDODAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,17 +6,35 @@
     </div>
 
     <main>
-        <div class="top-row px-4">
+        <div class="top-row">
             <form @onsubmit="Search" class="search-form">
                 <input type="search" @bind="searchQuery" placeholder="Search..." />
                 <button type="submit">Search</button>
             </form>
-            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
+            <a href="https://tesla.com/" target="_blank">About</a>
         </div>
 
-        <article class="content px-4">
+        <article class="header">
             @Body
         </article>
+        <div class="landing-page">
+            <div class="landing-page-button-container">
+                <h1>Model S</h1>
+                <button class="landing-page-button1" type="button" ></button>
+            </div>
+            <div class="landing-page-button-container">
+                <h1>Model 3</h1>
+                <button class="landing-page-button2" type="button"></button>
+            </div>
+            <div class="landing-page-button-container">
+                <h1>Model X</h1>
+                <button class="landing-page-button3" type="button"></button>
+            </div>
+            <div class="landing-page-button-container">
+                <h1>Model Y</h1>
+                <button class="landing-page-button4" type="button"></button>
+            </div>
+        </div>
     </main>
 </div>
 

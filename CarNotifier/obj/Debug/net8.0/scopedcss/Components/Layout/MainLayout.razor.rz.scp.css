@@ -6,6 +6,48 @@
 
 main[b-ilxrfsqepu] {
     flex: 1;
+
+}
+landing-page[b-ilxrfsqepu]{
+    flex: 1;
+
+}
+.landing-page[b-ilxrfsqepu]{
+    resize:none;
+}
+.landing-page-button-container[b-ilxrfsqepu]{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-table;
+    font-size: 16px;
+}
+.landing-page-button1[b-ilxrfsqepu], .landing-page-button2[b-ilxrfsqepu], .landing-page-button3[b-ilxrfsqepu], .landing-page-button4[b-ilxrfsqepu] {
+    width: 20em;
+    height: 20em;
+    border:none;
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.3);
+    background
+}
+.landing-page-button1[b-ilxrfsqepu] {
+    background-image: url(/pictures/model_s.png);
+    background-size: cover;
+}
+.landing-page-button2[b-ilxrfsqepu] {
+    background-image: url(/pictures/model_3.png);
+    background-size: cover;
+}
+.landing-page-button3[b-ilxrfsqepu] {
+    background-image: url(/pictures/model_x.png);
+    background-size: cover;
+}
+.landing-page-button4[b-ilxrfsqepu] {
+    background-image: url(/pictures/model_y.png);
+    background-size: cover;
 }
 
 .sidebar[b-ilxrfsqepu] {

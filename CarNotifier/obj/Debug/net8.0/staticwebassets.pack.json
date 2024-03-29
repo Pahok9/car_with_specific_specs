@@ -1,24 +1,48 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CarNotifier.bundle.scp.css",
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CarNotifier.bundle.scp.css",
       "PackagePath": "staticwebassets\\CarNotifier.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\app.css",
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HoCha\\OneDrive\\Desktop\\Side Projects\\CarNotifier\\CarNotifier\\CarNotifier\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\pictures\\cybertruck.png",
+      "PackagePath": "staticwebassets\\pictures\\cybertruck.png"
+    },
+    {
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\pictures\\model_3.png",
+      "PackagePath": "staticwebassets\\pictures\\model_3.png"
+    },
+    {
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\pictures\\model_s.png",
+      "PackagePath": "staticwebassets\\pictures\\model_s.png"
+    },
+    {
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\pictures\\model_x.png",
+      "PackagePath": "staticwebassets\\pictures\\model_x.png"
+    },
+    {
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\pictures\\model_y.png",
+      "PackagePath": "staticwebassets\\pictures\\model_y.png"
+    },
+    {
+      "Id": "C:\\Users\\WHODATDUHDODAT\\Desktop\\Github_stuff\\CarNotifier\\wwwroot\\pictures\\teslamotors.png",
+      "PackagePath": "staticwebassets\\pictures\\teslamotors.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarNotifier.Microsoft.AspNetCore.StaticWebAssets.props",
